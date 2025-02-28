@@ -1,1 +1,14 @@
 test
+https://piojas.pl/ 
+adres nowej strony dr Jastrzębskiego 
+tam znajdziemy materiały z wykładu i zadania do zrobienia 
+
+obrona na koniec projektu w sposob ustny przy innych osobach
+0-100 pkt ocena, mozliwa dokonana moze byc wstepna weryfikacja na konsultacjach (do konca kwietnia omowimy wszystkie zagadnienia)
+czysty python na cwiczeniach jesli chodzi o programowanie kodu 
+Aplikacja - minimum 3 moduly (pliki.py), modul minimum 2 klasy lub funkcje, moze obslugiwac i/o opieracje (zapis/odczyt do pliku, interakcja z uzytkownikiem), kod zgodny z konwencja PEP 8, obsługa wyjątków, jesli jest type hinting to musi byc sotowane konsekwentnie
+Testy jednostkowe - biblioteki uzywane na ćw (pytest,unitest), ok 100-150 różnorodnych testów, 5 roznich rodzajow asercji minimum, wymagane jest parametryzacja testow, powinny byc zorganziowane w logiczne grupy za pomocą klas testowych, kowencja PEP 8, wymagane sa tez testy negatywne (sprawdzajace obsluge bledow), pokrycie kodu testami na poziomie 80% minimum
+
+https://piojas.pl/wp-content/uploads/2025/02/lab1-1.pdf
+zad1
+
