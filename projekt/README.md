@@ -7,7 +7,6 @@ Kompleksowy system zarządzania restauracją zaimplementowany w Pythonie z testa
 - Zarządzanie stanem magazynowym (składniki, przepisy, dostawy)
 - Zarządzanie menu (dania, kategorie, dania dnia)
 - Obsługa zamówień (tworzenie, przetwarzanie, rozliczanie)
-- Śledzenie alergenów w daniach
 - Monitorowanie stanów magazynowych i automatyczne generowanie listy zakupów
 - Kalkulacja wartości magazynu
 
