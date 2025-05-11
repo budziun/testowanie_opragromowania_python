@@ -1,7 +1,11 @@
 """
 Testy jednostkowe dla modułu order_processing.
 Testuje klasy PozycjaZamowienia, Zamowienie i ObslugaZamowien.
+
+Częściowo wygenerowano przy użyciu Claude.ai
+model Claude 3.7 Sonnet
 """
+
 
 import unittest
 from datetime import datetime
@@ -523,5 +527,6 @@ class TestObslugaZamowienMetody(unittest.TestCase):
 
         self.assertEqual(zamowienia, [])
 
-    if __name__ == '__main__':
-        unittest.main()
+
+if __name__ == '__main__':
+    unittest.main()

@@ -1,6 +1,9 @@
 """
 Testy jednostkowe dla modułu inventory_control.
 Testuje klasy Skladnik i ZarzadzanieSkladnikami.
+
+Częściowo wygenerowano przy użyciu Claude.ai
+model Claude 3.7 Sonnet
 """
 
 import unittest

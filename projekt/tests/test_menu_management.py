@@ -1,6 +1,9 @@
 """
 Testy jednostkowe dla modułu menu_management.
 Testowane są klasy Danie i Menu oraz wszystkie ich metody.
+
+Częściowo wygenerowano przy użyciu Claude.ai
+model Claude 3.7 Sonnet
 """
 import unittest
 from datetime import datetime, timedelta
